@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.62" height="46.031" viewBox="0 0 119.62 46.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-opacity: 0;
+        stroke: #bc204b;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="contact.svg" class="cls-1" d="M1189.65,17.5c-10.43.129-23.05,6.045-23.46,21.865s10.83,23.274,24.28,23.151c0.53,0,71.78-.019,72.29-0.043,13.18-.617,22.52-7.661,22.05-23.88-0.39-13.446-11.81-20.513-22.72-21.06C1261.52,17.508,1190.22,17.5,1189.65,17.5Z" transform="translate(-1165.69 -17)"/>
+</svg>
